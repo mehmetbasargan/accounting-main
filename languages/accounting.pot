@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+
+#: inc/widgets/accounting-post-widget.php:13
+msgid "# Kategori Slider"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgid ", "
+msgstr ""
+
+#: footer.php:9
+msgid ""
+"A small river named Duden flows by their place and supplies it with the "
+"necessary regelialia."
+msgstr ""
+
+#: footer.php:8
+msgid "About us"
+msgstr ""
+
+#. Name of the theme
+msgid "Accounting"
+msgstr ""
+
+#. Description of the theme
+msgid "Accounting Wordpress Theme"
+msgstr ""
+
+#: inc/theme-options.php:149
+msgid "Add Button Link"
+msgstr ""
+
+#: inc/theme-options.php:55 inc/theme-options.php:123 inc/theme-options.php:328
+#: inc/theme-options.php:425
+msgid "Add New"
+msgstr ""
+
+#: inc/theme-options.php:116
+msgid "Add Slide"
+msgstr ""
+
+#: inc/theme-options.php:61
+msgid "Add Social Media Icon"
+msgstr ""
+
+#: inc/theme-options.php:66
+msgid "Add Social Media Link"
+msgstr ""
+
+#: functions.php:129
+msgid "Add widgets here."
+msgstr ""
+
+#: page-contact.php:62
+msgid "Address:"
+msgstr ""
+
+#: footer.php:56
+msgid "All rights reserved | This template is made with"
+msgstr ""
+
+#: inc/theme-options.php:138
+msgid "Big Title"
+msgstr ""
+
+#: inc/theme-options.php:148
+msgid "Button Link"
+msgstr ""
+
+#: inc/theme-options.php:143
+msgid "Button Title"
+msgstr ""
+
+#: footer.php:56
+msgid "by"
+msgstr ""
+
+#: inc/theme-options.php:88
+msgid "Color Chart"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:25
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-options.php:502
+msgid "Contact Information"
+msgstr ""
+
+#: inc/theme-options.php:496
+msgid "Contact Page"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:17
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-options.php:209
+msgid "Counter"
+msgstr ""
+
+#: inc/theme-options.php:458
+msgid "Custom Blogs"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:96 template-parts/content-page.php:25
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-options.php:36
+msgid "Email"
+msgstr ""
+
+#: page-contact.php:83
+msgid "Email:"
+msgstr ""
+
+#: inc/theme-options.php:370
+msgid "FAQS"
+msgstr ""
+
+#: inc/theme-options.php:418
+msgid "FAQS Accordion"
+msgstr ""
+
+#: inc/theme-options.php:573
+msgid "Google Map"
+msgstr ""
+
+#: inc/theme-options.php:581
+msgid "Google Maps"
+msgstr ""
+
+#: inc/theme-options.php:17
+msgid "Header Settings"
+msgstr ""
+
+#: footer.php:42 header.php:100
+#, php-format
+msgid ""
+"Henüz bir menü Oluşturmadınız. Oluşturmak için <a href=\"%s\">Tıklayın</a>"
+msgstr ""
+
+#: inc/theme-options.php:80 inc/theme-options.php:202 inc/theme-options.php:291
+#: inc/theme-options.php:363 inc/theme-options.php:451
+#: inc/theme-options.php:488
+msgid "Hide"
+msgstr ""
+
+#: index.php:16
+msgid "Home"
+msgstr ""
+
+#: 404.php:20
+msgid "Home Page"
+msgstr ""
+
+#: inc/theme-options.php:103
+msgid "Home Settings"
+msgstr ""
+
+#: inc/theme-options.php:109
+msgid "Home Slide"
+msgstr ""
+
+#. URI of the theme
+msgid "http://accounting.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://mehmetbasargan.com"
+msgstr ""
+
+#: inc/theme-options.php:53
+msgid "Icon"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/widgets/accounting-post-widget.php:14
+msgid "Kategori Slider"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:79
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/theme-options.php:582
+msgid "Lütfen Google Maps Kodunuzu Ekleyin"
+msgstr ""
+
+#. Author of the theme
+msgid "Mehmet Başargan"
+msgstr ""
+
+#: footer.php:31 header.php:89
+msgid "Menu"
+msgstr ""
+
+#: single.php:41
+msgid "Next"
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:19
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Name of the template
+msgid "Page With Side Bar"
+msgstr ""
+
+#: template-parts/content-page.php:11 template-parts/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-options.php:26
+msgid "Phone Number"
+msgstr ""
+
+#: page-contact.php:72
+msgid "Phone:"
+msgstr ""
+
+#: inc/theme-options.php:139 inc/theme-options.php:180
+#: inc/theme-options.php:314 inc/theme-options.php:386
+#: inc/theme-options.php:474 inc/theme-options.php:510
+msgid "Please Add a Large Title"
+msgstr ""
+
+#: inc/theme-options.php:144
+msgid "Please Add Button Title"
+msgstr ""
+
+#: inc/theme-options.php:394
+msgid "Please Add Content"
+msgstr ""
+
+#: inc/theme-options.php:558
+msgid "Please Add Form Title"
+msgstr ""
+
+#: inc/theme-options.php:164 inc/theme-options.php:402
+#: inc/theme-options.php:410
+msgid "Please Add Image"
+msgstr ""
+
+#: inc/theme-options.php:226 inc/theme-options.php:243
+#: inc/theme-options.php:260 inc/theme-options.php:277
+msgid "Please Add Number"
+msgstr ""
+
+#: inc/theme-options.php:134 inc/theme-options.php:172
+#: inc/theme-options.php:306 inc/theme-options.php:378
+#: inc/theme-options.php:466
+msgid "Please Add Small Title"
+msgstr ""
+
+#: inc/theme-options.php:188
+msgid "Please Add Text"
+msgstr ""
+
+#: inc/theme-options.php:269
+msgid "Please Add Title (Chapter 4)"
+msgstr ""
+
+#: inc/theme-options.php:218
+msgid "Please Add Title (Part 1)"
+msgstr ""
+
+#: inc/theme-options.php:235
+msgid "Please Add Title (Part 2)"
+msgstr ""
+
+#: inc/theme-options.php:252
+msgid "Please Add Title (Part 3)"
+msgstr ""
+
+#: inc/theme-options.php:550
+msgid "Please Add Website"
+msgstr ""
+
+#: inc/theme-options.php:526
+msgid "Please Enter Address"
+msgstr ""
+
+#: inc/theme-options.php:518 inc/theme-options.php:566
+msgid "Please Enter Description"
+msgstr ""
+
+#: inc/theme-options.php:542
+msgid "Please Enter Email"
+msgstr ""
+
+#: inc/theme-options.php:534
+msgid "Please Enter Phone"
+msgstr ""
+
+#: inc/theme-options.php:129
+msgid "Please Select Image"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:41
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:24
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/widgets/accounting-post-widget.php:22
+msgid "Post Sayısı"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:62
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:40
+msgid "Previous"
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:13
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/template-tags.php:171
+msgid "Search"
+msgstr ""
+
+#. %s: search query.
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/theme-options.php:423
+msgid "Section"
+msgstr ""
+
+#: inc/theme-options.php:435
+msgid "Section Content"
+msgstr ""
+
+#: inc/theme-options.php:430
+msgid "Section Title"
+msgstr ""
+
+#: inc/theme-options.php:79 inc/theme-options.php:201 inc/theme-options.php:290
+#: inc/theme-options.php:362 inc/theme-options.php:450
+#: inc/theme-options.php:487
+msgid "Show"
+msgstr ""
+
+#: inc/theme-options.php:285
+msgid "Show / Hide Counter Section"
+msgstr ""
+
+#: inc/theme-options.php:482
+msgid "Show / Hide Custom Blogs Section"
+msgstr ""
+
+#: inc/theme-options.php:445
+msgid "Show / Hide FAQS Section"
+msgstr ""
+
+#: inc/theme-options.php:357
+msgid "Show / Hide Testimonials Section"
+msgstr ""
+
+#: inc/theme-options.php:74
+msgid "Show / Hide Top Bar Section"
+msgstr ""
+
+#: inc/theme-options.php:196
+msgid "Show / Hide Welcome Section"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:15
+msgid "Skip to content"
+msgstr ""
+
+#: inc/theme-options.php:121 inc/theme-options.php:326
+msgid "Slayt"
+msgstr ""
+
+#: inc/theme-options.php:128
+msgid "Slide Image"
+msgstr ""
+
+#: inc/theme-options.php:133
+msgid "Small Title"
+msgstr ""
+
+#: inc/theme-options.php:46
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/theme-options.php:65
+msgid "Social Media Link"
+msgstr ""
+
+#: inc/theme-options.php:60
+msgid "Social İcon"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:69
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/theme-options.php:298
+msgid "Testimonials"
+msgstr ""
+
+#: inc/theme-options.php:333
+msgid "Testimonials Description"
+msgstr ""
+
+#: inc/theme-options.php:321
+msgid "Testimonials Slide"
+msgstr ""
+
+#: inc/theme-options.php:348
+msgid "Testimonials Subtitle"
+msgstr ""
+
+#: inc/theme-options.php:343
+msgid "Testimonials Title"
+msgstr ""
+
+#: inc/theme-options.php:338
+msgid "Testimonials Visual"
+msgstr ""
+
+#: page-contact.php:95
+msgid "Website:"
+msgstr ""
+
+#: inc/theme-options.php:156
+msgid "Welcome"
+msgstr ""
+
+#: inc/widgets/accounting-post-widget.php:61
+msgid "Yazı Bulunamadı. ( Post Slider )"
+msgstr ""
+
+#: index.php:87
+msgid "Üzgünüz, kriterlerinize uygun gönderi bulunamadı."
+msgstr ""
